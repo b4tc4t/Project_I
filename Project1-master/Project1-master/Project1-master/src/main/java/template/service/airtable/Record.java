@@ -89,47 +89,17 @@ public class Record {
                         .setCookieSpec(CookieSpecs.STANDARD).build())
                 .build();
 
-        int pageSize = 100;
-        String offset = null;
-        boolean hasMoreRecords = true;
-        JsonArray allRecords = new JsonArray();
-
         try
         {
-            while (hasMoreRecords) {
-                HttpGet request = new HttpGet(offset == null ? endpoint : endpoint + "&offset=" + offset);
-                request.setHeader("Authorization", "Bearer " + personal_access_token);
-
-                HttpResponse response = client.execute(request);
-
-                HttpEntity entity = response.getEntity();
-                String responseString = entity != null ? EntityUtils.toString(entity) : null;
-
-                JsonObject jsonResponse = JsonParser.parseString(responseString).getAsJsonObject();
-                if (jsonResponse.has("records"))
-                {
-                    JsonArray records = jsonResponse.get("records").getAsJsonArray();
-
-                    for (int index = 0; index < records.size(); index++)
-                    {
-                        allRecords.add(records.get(index).getAsJsonObject());
-                    }
-                }
-
-                if (jsonResponse.has("offset"))
-                {
-                    offset = jsonResponse.get("offset").getAsString();
-                }
-                else
-                {
-                    hasMoreRecords = false;
-                }
-
-            }
-
-            JsonObject standardList = new JsonObject();
-            standardList.add("records", allRecords);
-            return standardList.toString();
+            HttpGet httpGet = new HttpGet(endpoint);
+            httpGet.setHeader(HttpHeaders.CONTENT_TYPE, "application/json");
+            httpGet.setHeader(HttpHeaders.AUTHORIZATION, "Bearer " + personal_access_token);
+            
+            HttpResponse response = client.execute(httpGet);
+            
+            HttpEntity entity = response.getEntity();
+            String responseString = EntityUtils.toString(entity);
+            return responseString;
         }
         catch (IOException e)
         {

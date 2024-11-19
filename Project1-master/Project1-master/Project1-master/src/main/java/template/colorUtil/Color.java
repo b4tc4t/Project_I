@@ -2,32 +2,29 @@ package template.colorUtil;
 
 import org.fusesource.jansi.Ansi;
 public class Color {
-    public static void printRed(String text)
+    public static void print_red(String text)
     {
         System.out.println(Ansi.ansi().fgRed().a(text).reset());
     }
 
-    public static void printGreen(String text)
+    public static void print_green(String text)
     {
         System.out.println(Ansi.ansi().fgGreen().a(text).reset());
     }
 
-    public static void printYellow(String text)
+    public static void print_yellow(String text)
     {
         System.out.println(Ansi.ansi().fgYellow().a(text).reset());
     }
 
-    
-    public static void printBlue(String text)
+    public static void print_yellow_no(String text)
+    {
+        System.out.print(Ansi.ansi().fgYellow().a(text).reset());
+    }
+
+
+    public static void print_blue(String text)
     {
         System.out.println(Ansi.ansi().fgBlue().a(text).reset());
-    }
-    public static void printCyan(String text)
-    {
-        System.out.println(Ansi.ansi().fgCyan().a(text).reset());
-    }
-    public static void printCyanNo(String text)
-    {
-        System.out.print(Ansi.ansi().fgCyan().a(text).reset());
     }
 }

@@ -1,5 +1,6 @@
 package template.persistence.dto;
 
+import com.microsoft.graph.models.PasswordProfile;
 
 public class User {
     private String businessPhones;

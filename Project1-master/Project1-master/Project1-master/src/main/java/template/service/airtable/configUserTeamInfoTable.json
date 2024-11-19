@@ -1,0 +1,34 @@
+[
+  {
+    "name": "id",
+    "type": "singleLineText"
+  },
+  {
+    "name": "@odata.type",
+    "type": "singleLineText"
+  },
+  {
+    "name": "roles",
+    "type": "singleLineText"
+  },
+  {
+    "name": "displayName",
+    "type": "singleLineText"
+  },
+  {
+    "name": "visibleHistoryStartDateTime",
+    "type": "singleLineText"
+  },
+  {
+    "name": "userId",
+    "type": "singleLineText"
+  },
+  {
+    "name": "email",
+    "type": "singleLineText"
+  },
+  {
+    "name": "tenantId",
+    "type": "singleLineText"
+  }
+]

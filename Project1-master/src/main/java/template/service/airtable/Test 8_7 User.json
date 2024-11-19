@@ -1,0 +1,54 @@
+{
+  "id": "tbllhyJQxnWYIGML9",
+  "name": "Test 8/7 User",
+  "primaryFieldId": "fldtnUOV1LikkyyTD",
+  "fields": [
+    {
+      "type": "singleLineText",
+      "id": "fldtnUOV1LikkyyTD",
+      "name": "id"
+    },
+    {
+      "type": "singleLineText",
+      "id": "fld1dk9FCmAHgQzys",
+      "name": "@odata.type"
+    },
+    {
+      "type": "singleLineText",
+      "id": "fldBvpGw98br5H2ko",
+      "name": "roles"
+    },
+    {
+      "type": "singleLineText",
+      "id": "fldCwU6p0L78WYqID",
+      "name": "displayName"
+    },
+    {
+      "type": "singleLineText",
+      "id": "fldD3J6TMjyYqVEtG",
+      "name": "visibleHistoryStartDateTime"
+    },
+    {
+      "type": "singleLineText",
+      "id": "fldKbDH4Vo5FK4zqh",
+      "name": "userId"
+    },
+    {
+      "type": "singleLineText",
+      "id": "flde64d7rFu1N7nWw",
+      "name": "email"
+    },
+    {
+      "type": "singleLineText",
+      "id": "fldlP4c5SzJwmPEb6",
+      "name": "tenantId"
+    }
+  ],
+  "views": [
+    {
+      "id": "viwTOx4W3AsCRJwpp",
+      "name": "Grid view",
+      "type": "grid"
+    }
+  ]
+}
