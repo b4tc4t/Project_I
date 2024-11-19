@@ -1,0 +1,216 @@
+Jul 08, 2023 2:31:06 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+INFO: Creating multiple users in one request...
+Jul 08, 2023 2:31:07 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+INFO: Batch request fetch success :
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "User Principal Name"
+Response Status : 400
+Error : Invalid value specified for property 'mailNickname' of resource 'User'.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user7@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user3@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user5@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user9@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user2@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user16@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user1@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user17@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user19@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user14@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user13@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user15@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user8@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user12@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user4@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user6@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user10@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user18@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user11@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+INFO: Creating multiple users in one request...
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+INFO: Batch request fetch success :
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user35@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user37@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user30@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user39@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user34@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user22@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user28@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user20@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user23@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user24@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user38@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user26@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user25@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user31@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user36@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user32@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user27@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user33@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user29@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user21@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:08 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+INFO: Creating multiple users in one request...
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+INFO: Batch request fetch success :
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user40@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user41@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user48@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user47@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user42@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user49@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user44@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user50@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user43@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : The specified password does not comply with password complexity requirements. Please provide a different password.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user45@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
+Jul 08, 2023 2:31:09 PM template.service.UserServiceImpl createMultipleUsersInOneRequest
+WARNING: User Principal Name : "user46@3pjv85.onmicrosoft.com"
+Response Status : 400
+Error : Another object with the same value for property userPrincipalName already exists.
