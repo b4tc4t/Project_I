@@ -31,8 +31,8 @@
 Find the "CLI.java" file and Run
 
 # Contact information <a name="contact"></a>
-Phạm Lâm Phú 20214969
-Email: phu.pl214969@sis.hust.edu.vn
+Trịnh Trường Giang 20214958
+Email: giang.tt214958@sis.hust.edu.vn
 
-Nguyễn Thiện Sang 20214972
-Email: sang.nt214972@sis.hust.edu.vn
+Nguyễn Quang Hưng 20214961
+Email: hung.nq214961@sis.hust.edu.vn
